@@ -6,7 +6,7 @@
 //  Copyright © 2016年 tany. All rights reserved.
 //
 
-#import "TYDownloadModel.h"
+#import <TYDownLoadModel.h>
 
 @interface TYDownloadProgress ()
 // 续传大小
