@@ -31,7 +31,7 @@
     textView.font = [UIFont systemFontOfSize:fontSize];
     [textView setText:text lineSpacing:lineSpacing];
     [textView sizeToFit];
-    return textView.height;
+    return textView.frame.size.height;
 }
 
 
